@@ -1,11 +1,11 @@
 
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/11/1a/21/111a218fa1455232512f17ee86d98eff.jpg")
+img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/11/1a/21/111a218fa1455232512f17ee86d98eff.jpg"
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Hussain</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif")
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussainshamim16&label=Profile%20views&color=0e75b6&style=flat" alt="hussainshamim16" /> </p>
 
