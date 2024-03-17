@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="100%" src="https://i.pinimg.com/736x/11/1a/21/111a218fa1455232512f17ee86d98eff.jpg"/>
+<img align="right" alt="Coding" width="100%" margin-bottom = '20px' src="https://i.pinimg.com/736x/11/1a/21/111a218fa1455232512f17ee86d98eff.jpg"/>
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Hussain</h1>
