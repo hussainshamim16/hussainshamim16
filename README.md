@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 🤝 I’m looking for help with [Sasta Biryani](hussainshamim16.github.io/sasta-intro/index.html)
+- 🤝 I’m looking for help with [Sasta Biryani project](hussainshamim16.github.io/sasta-intro/index.html)
 
 - 👨‍💻 All of my projects are available at [My Github Account](https://github.com/hussainshamim16)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **hj422748@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://hussainshamim16.github.io/new-portfolio/)
+- 📄 Know about my experiences [MY Portfolio](https://hussainshamim16.github.io/new-portfolio/)
 
 - ⚡ Fun fact **Code with coffee**
 
