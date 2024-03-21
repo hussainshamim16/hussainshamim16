@@ -15,17 +15,15 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [portfolio](https://hussainshamim16.github.io/portfolio/my%20portfolio%20web/)
-
 - 🤝 I’m looking for help with [Sasta Biryani](hussainshamim16.github.io/sasta-intro/index.html)
 
-- 👨‍💻 All of my projects are available at [https://github.com/hussainshamim16](https://github.com/hussainshamim16)
+- 👨‍💻 All of my projects are available at [My Github Account](https://github.com/hussainshamim16)
 
 - 💬 Ask me about **Javascript,Bootstrap**
 
 - 📫 How to reach me **hj422748@gmail.com**
 
-- 📄 Know about my experiences [https://hussainshamim16.github.io/portfolio/my%20portfolio%20web/](https://hussainshamim16.github.io/portfolio/my%20portfolio%20web/)
+- 📄 Know about my experiences [Portfolio](https://hussainshamim16.github.io/new-portfolio/)
 
 - ⚡ Fun fact **Code with coffee**
 
