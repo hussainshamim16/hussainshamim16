@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="100%"  src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
+<img align="right" alt="Coding" width="100%"  src="C:\Users\Muhammad Hussain\Downloads\github cover.jpg"/>
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Hussain</h1>
