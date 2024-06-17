@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="100%"  src="C:\Users\Muhammad Hussain\Downloads\github cover.jpg"/>
+<img align="right" alt="Coding" width="100%"  src="file:///C:/Users/Muhammad%20Hussain/Downloads/github%20cover.jpg"/>
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Hussain</h1>
