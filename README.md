@@ -13,9 +13,9 @@
 Hey there! I'm **Muhammad Hussain Shamim**, a passionate front-end web developer with a love for creating beautiful and functional websites. At just 16 years old, I've already immersed myself in modern technologies like **HTML, CSS, JavaScript, Firebase, Bootstrap**, and **Tailwind CSS**. My coding journey began at a young age, and I'm always on the lookout for new technologies and challenges to enhance my skills.
 
 - 🌱 I’m currently learning **React Native**.
-- 🔭 I’m working on **Software Div**.
-- 🤝 Looking for help with my **Sasta Biryani project**.
-- 💬 Ask me about **JavaScript, Bootstrap**.
+- 🔭 I’m working on **Solutions Grame**.
+- 🤝 Looking for help with my **my portfolio website**.
+- 💬 Ask me about **JavaScript, React**.
 - ⚡ Fun fact: **I code with coffee!**
 
 ---
@@ -57,14 +57,11 @@ Here are some of the tools and technologies I've worked with:
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hussain16/" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/m.hussain.shamim.aq" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" />
-  </a>
   <a href="https://www.xing.com/profile/MUHAMMAD_HUSSAIN035315/web_profiles" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/408/408755.png" alt="Xing" height="30" width="40" />
+  </a>
+    <a href="https://www.linkedin.com/in/hussain16/" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://dev.to/hussainshamim16" target="blank">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="Dev.to" height="30" width="40" />
