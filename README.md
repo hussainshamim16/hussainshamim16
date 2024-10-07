@@ -63,9 +63,6 @@ Here are some of the tools and technologies I've worked with:
   <a href="https://fb.com/m.hussain.shamim.aq" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@M.HUSSAINSHAMIMAQ" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" alt="YouTube" height="30" width="40" />
-  </a>
   <a href="https://www.xing.com/profile/MUHAMMAD_HUSSAIN035315/web_profiles" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/408/408755.png" alt="Xing" height="30" width="40" />
   </a>
