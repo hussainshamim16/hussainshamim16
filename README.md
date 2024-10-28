@@ -1,4 +1,4 @@
-<img src="./cover.jpg" alt="cover" style="width: 100%;"/>
+<img src="./cve.webp" alt="cover" style="width: 100%;"/>
 
 <h1 align="center">Hello! I'm Muhammad Hussain Shamim</h1>
 <h3 align="center">Passionate Front-End Developer</h3>
