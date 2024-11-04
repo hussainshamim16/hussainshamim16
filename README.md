@@ -12,8 +12,8 @@
 ### 👋 About Me
 Hey there! I'm **Muhammad Hussain Shamim**, a passionate front-end web developer with a love for creating beautiful and functional websites. At just 16 years old, I've already immersed myself in modern technologies like **HTML, CSS, JavaScript, Firebase, Bootstrap**, and **Tailwind CSS**. My coding journey began at a young age, and I'm always on the lookout for new technologies and challenges to enhance my skills.
 
-- 🌱 I’m currently learning **React Native**.
-- 🔭 I’m working on **Solutions Grame**.
+- 🌱 I’m currently learning **Node.js**.
+- 🔭 I’m working on **Solutions Gram**.
 - 🤝 Looking for help with my **my portfolio website**.
 - 💬 Ask me about **JavaScript, React**.
 - ⚡ Fun fact: **I code with coffee!**
