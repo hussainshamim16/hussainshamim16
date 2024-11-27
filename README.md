@@ -1,11 +1,9 @@
-<img src="./cve.webp" alt="cover" style="width: 100%;"/>
+<img src="./Your paragraph text (8).png" alt="cover" style="width: 100%;"/>
 
 <h1 align="center">Hello! I'm Muhammad Hussain Shamim</h1>
 <h3 align="center">Passionate Front-End Developer</h3>
 
-<p align="center">
-  <img src="./cover.jpg" alt="Profile Views" />
-</p>
+
 
 ---
 
