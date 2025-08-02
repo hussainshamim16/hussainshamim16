@@ -3,18 +3,22 @@
 <h1 align="center">Hello! I'm Muhammad Hussain Shamim</h1>
 <h3 align="center">Passionate Frontend Developer</h3>
 
-
-
 ---
 
 ### 👋 About Me
-Hey there! I'm **Muhammad Hussain Shamim**, a passionate front-end web developer with a love for creating beautiful and functional websites. At just 16 years old, I've already immersed myself in modern technologies like **HTML, CSS, JavaScript, Firebase, Bootstrap**, and **Tailwind CSS**. My coding journey began at a young age, and I'm always on the lookout for new technologies and challenges to enhance my skills.
+I’m a passionate **Front-End Web Developer** with hands-on experience in **React.js, JavaScript, WordPress, and Shopify**. I specialize in building responsive, user-centric web applications and delivering seamless digital experiences.
 
-- 🌱 I’m currently learning **Node.js**.
-- 🔭 I’m working on **Solutions Gram**.
-- 🤝 Looking for help with my **my portfolio website**.
-- 💬 Ask me about **JavaScript, React**.
-- ⚡ Fun fact: **I code with coffee!**
+Over the years, I have developed a wide range of projects, including:
+<ul>
+  <li>✔ Custom CMS platforms</li>
+  <li>✔ CRM (Customer Relationship Management) systems</li>
+  <li>✔ LLM (Learning & Leads Management) applications</li>
+  <li>✔ Dynamic E-Commerce websites</li>
+</ul>
+
+My focus is always on **performance optimization, clean UI/UX design, and scalable code architecture**.  
+I’m constantly exploring new technologies and building meaningful digital solutions.  
+<strong>Let's connect and grow together!</strong>
 
 ---
 
