@@ -6,7 +6,7 @@
 ---
 
 ### 👋 About Me
-I’m a passionate **Front-End Web Developer** with hands-on experience in **React.js, JavaScript, WordPress, and Shopify**. I specialize in building responsive, user-centric web applications and delivering seamless digital experiences.
+I’m a **Front-End Web Developer** with hands-on experience in **React.js, JavaScript, WordPress, and Shopify**. I specialize in building responsive, user-centric web applications and delivering seamless digital experiences.
 
 Over the years, I have developed a wide range of projects, including:
 <ul>
