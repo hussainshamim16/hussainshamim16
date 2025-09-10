@@ -1,6 +1,6 @@
 <img src="./Empowering Ideas Through Web Innovation (1).png" alt="cover" style="width: 100%;"/>
 
-<h1 align="center">Hello! I'm Muhammad Hussain Shamim</h1>
+<h1 align="center">Sallam! I'm Muhammad Hussain Shamim</h1>
 <h3 align="center">Frontend Developer</h3>
 
 ---
