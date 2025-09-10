@@ -1,4 +1,4 @@
-<img src="./Empowering Ideas Through Web Innovation (1).png" alt="cover" style="width: 100%;"/>
+<img src="https://res.cloudinary.com/dgqilf65p/image/upload/v1757498791/q5fwzrdouayxyfzoagob.png" alt="Muhammad Hussain Shamim" style="width: 100%;"/>
 
 <h1 align="center">Sallam! I'm Muhammad Hussain Shamim</h1>
 <h3 align="center">Frontend Developer</h3>
