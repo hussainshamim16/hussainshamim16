@@ -1,9 +1,11 @@
-<img src="hussainshamim.svg" alt="Muhammad Hussain Shamim" width="100%" />
+<a href="https://muhammadhussainshamim16.netlify.app/" target="_blank" style="text-decoration: none;">
+<img src="hussainshamim.svg" alt="Muhammad Hussain Shamim" width="100%" style="border-radius: 20px; box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;" />
+</a>
 
-<h1 align="center">👋 Assalam-o-Alaikum, I'm Muhammad Hussain Shamim</h1>
-<h3 align="center">🚀 Frontend Developer | React • WordPress • Shopify</h3>
+<h1 align="left">👋 Assalam-o-Alaikum, I'm Muhammad Hussain Shamim</h1>
+<h3 align="left">🚀 Frontend Developer | React • WordPress • Shopify</h3>
 
-<p align="center">
+<p align="left">
   Passionate about building fast, responsive, and user-focused web applications.
 </p>
 
@@ -37,7 +39,7 @@ I strongly focus on:
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
@@ -65,7 +67,7 @@ I strongly focus on:
 ## 📫 Connect With Me
 
 - 💼 GitHub: [@hussainshamim16](https://github.com/hussainshamim16)
-- 🌐 Portfolio: _Coming Soon_
+- 🌐 Portfolio: [Muhammad Hussian Shamim](https://muhammadhussainshamim16.netlify.app/)
 - 💬 Always open for collaboration & learning
 
 ---
