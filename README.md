@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dgqilf65p/image/upload/v1757498791/q5fwzrdouayxyfzoagob.png" alt="Muhammad Hussain Shamim" width="100%" />
+<img src="hussainshamim.svg" alt="Muhammad Hussain Shamim" width="100%" />
 
 <h1 align="center">👋 Assalam-o-Alaikum, I'm Muhammad Hussain Shamim</h1>
 <h3 align="center">🚀 Frontend Developer | React • WordPress • Shopify</h3>
