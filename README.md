@@ -1,12 +1,7 @@
-<style>
-  .markdown-body img{
-    border-radius: 20px; 
-    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
-  }
-</style>
+
 
 <a href="https://muhammadhussainshamim16.netlify.app/" target="_blank" style="text-decoration: none;">
-<img src="hussainshamim.svg" alt="Muhammad Hussain Shamim" width="100%"  />
+<img src="hussainshamim.svg" alt="Muhammad Hussain Shamim" width="100%" />
 </a>
 
 <h1 align="left">👋 Assalam-o-Alaikum, I'm Muhammad Hussain Shamim</h1>
